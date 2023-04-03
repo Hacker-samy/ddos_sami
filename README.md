@@ -15,7 +15,7 @@ git clone https://github.com/Hacker-samy/ddos_sami
 
 cd ddos_sami
 
-python ddos_irani.py
+python ddos_iran.py
 
 hacker_samy
 
